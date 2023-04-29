@@ -1,6 +1,6 @@
 ! Title: nanofilter
 ! Description: Personal minimal filter
-! Version: 0.1.1
+! Version: 0.1.2
 ! Expires: 1 days
 ! Homepage: https://github.com/sigsignv/nanofilter
 ! License: https://github.com/sigsignv/nanofilter/blob/main/LICENSE
@@ -9,3 +9,6 @@
 ! (Native ads show related articles with ads, but mostly unpleasant)
 ||cdn.taboola.com^$script,domain=impress.co.jp
 ||widgets.outbrain.com^$script,domain=impress.co.jp
+
+! Remove tracking parameters
+||gihyo.jp^$removeparam=utm_source
