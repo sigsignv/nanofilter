@@ -1,0 +1,6 @@
+! Title: nanofilter
+! Description: Personal minimal filter
+! Version: 0.1.0
+! Expires: 1 days
+! Homepage: https://github.com/sigsignv/nanofilter
+! License: https://github.com/sigsignv/nanofilter/blob/main/LICENSE
