@@ -5,7 +5,7 @@
 ! Homepage: https://github.com/sigsignv/nanofilter
 ! License: https://github.com/sigsignv/nanofilter/blob/main/LICENSE
 
-! Remove native ads
+! Block native ads
 ! (Native ads show related articles with ads, but mostly unpleasant)
 ||cdn.taboola.com^$script,domain=impress.co.jp
 ||widgets.outbrain.com^$script,domain=impress.co.jp
