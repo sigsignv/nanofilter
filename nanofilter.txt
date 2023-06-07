@@ -10,5 +10,8 @@
 ||cdn.taboola.com^$script,domain=impress.co.jp
 ||widgets.outbrain.com^$script,domain=impress.co.jp
 
+! Block scam ads
+||popin.cc^$script,domain=impress.co.jp
+
 ! Remove tracking parameters
 ||gihyo.jp^$removeparam=utm_source
