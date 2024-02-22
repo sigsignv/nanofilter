@@ -1,5 +1,5 @@
 # nanofilter
-Personal minimal filters for uBlock Origin
+A personal minimal filters for uBlock Origin.
 
 ## Author
 
