@@ -7,4 +7,4 @@ Sigsign <<sig@signote.cc>>
 
 ## License
 
-CC0
+MIT-0
