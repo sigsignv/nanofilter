@@ -6,9 +6,9 @@
 ! License: https://github.com/sigsignv/nanofilter/blob/main/LICENSE
 
 ! Recommendation widgets
-! (It show related articles with ads, but mostly unpleasant)
+! (It shows related articles with ads, but they are mostly unpleasant)
+||cdn.taboola.com/libtrc/*/loader.js
 ||widgets.outbrain.com/outbrain.js
-||cdn.taboola.com^$script,domain=impress.co.jp
 
 ! Block scam ads
 ||popin.cc^$script,domain=impress.co.jp
