@@ -1,6 +1,6 @@
 ! Title: nanofilter
 ! Description: A personal minimal filter
-! Version: 0.1.4
+! Version: 0.1.5
 ! Expires: 7 days
 ! Homepage: https://github.com/sigsignv/nanofilter
 ! License: https://github.com/sigsignv/nanofilter/blob/main/LICENSE
@@ -10,6 +10,8 @@
 ||cdn.taboola.com/libtrc/*/loader.js
 ||l.logly.co.jp/lift_widget.js
 ||widgets.outbrain.com/outbrain.js
+
+@@||l.logly.co.jp/lift_widget.js$domain=qiita.com
 
 ! Explicit sexual ads
 ||js.ad-stir.com/js/adstir.js
