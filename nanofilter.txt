@@ -11,6 +11,9 @@
 ||l.logly.co.jp/lift_widget.js
 ||widgets.outbrain.com/outbrain.js
 
+! Explicit sexual ads
+||js.ad-stir.com/js/adstir.js
+
 ! Block scam ads
 ||popin.cc^$script,domain=impress.co.jp
 
