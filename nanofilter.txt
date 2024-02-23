@@ -14,6 +14,7 @@
 
 ! Explicit sexual ads
 ||js.ad-stir.com/js/adstir.js
+||js.boost-next.co.jp^$script,third-party
 
 ! Block scam ads
 ||popin.cc^$script,domain=impress.co.jp
