@@ -8,11 +8,9 @@
 ! Recommendation widgets
 ! (It shows related articles with ads, but they are mostly unpleasant)
 ||cdn.taboola.com/libtrc/*/loader.js
-||l.logly.co.jp/lift_widget.js
+||l.logly.co.jp/lift_widget.js$domain=~qiita.com
 ||popin.cc/popin_discovery/recommend$script
 ||widgets.outbrain.com/outbrain.js
-
-@@||l.logly.co.jp/lift_widget.js$domain=qiita.com
 
 ! Explicit sexual ads
 ||js.ad-stir.com/js/adstir.js
