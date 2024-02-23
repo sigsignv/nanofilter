@@ -1,6 +1,6 @@
 ! Title: nanofilter
 ! Description: A personal minimal filter
-! Version: 0.1.7
+! Version: 0.1.8
 ! Expires: 7 days
 ! Homepage: https://github.com/sigsignv/nanofilter
 ! License: https://github.com/sigsignv/nanofilter/blob/main/LICENSE
@@ -14,7 +14,7 @@
 
 ! Explicit sexual ads
 ||aaacompany.net/om/mro/load.js
-||imp-adedge.i-mobile.co.jp/script/v1/spot.js
+||i-mobile.co.jp^$script,third-party
 ||js.ad-stir.com/js/adstir.js
 ||js.boost-next.co.jp^$script,third-party
 ||octopuspop.com^$third-party
