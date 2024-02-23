@@ -14,6 +14,7 @@
 
 ! Explicit sexual ads
 ||aaacompany.net/om/mro/load.js
+||imp-adedge.i-mobile.co.jp/script/v1/spot.js
 ||js.ad-stir.com/js/adstir.js
 ||js.boost-next.co.jp^$script,third-party
 
