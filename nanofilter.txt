@@ -13,6 +13,7 @@
 ||widgets.outbrain.com/outbrain.js
 
 ! Explicit sexual ads
+||aaacompany.net/om/mro/load.js
 ||js.ad-stir.com/js/adstir.js
 ||js.boost-next.co.jp^$script,third-party
 
