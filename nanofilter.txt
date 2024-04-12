@@ -14,7 +14,7 @@
 
 ! Explicit sexual ads
 ||aaacompany.net/om/mro/load.js
-||adm.shinobi.jp/s/*$script
+||adm.shinobi.jp/s/*$script,third-party
 ||ads.as.criteo.com/delivery/r/*
 ||i-mobile.co.jp^$script,third-party
 ||js.ad-stir.com/js/adstir.js
