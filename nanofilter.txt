@@ -24,8 +24,5 @@
 ! Unpleasant healthcare ads
 ||cdn.mediago.io/js/*$third-party
 
-! Block scam ads
-||popin.cc^$script,domain=impress.co.jp
-
 ! Remove tracking parameters
 ||gihyo.jp^$removeparam=utm_source
