@@ -21,8 +21,5 @@
 ||js.boost-next.co.jp^$script,third-party
 ||octopuspop.com^$third-party
 
-! Unpleasant healthcare ads
-||cdn.mediago.io/js/*$third-party
-
 ! Remove tracking parameters
 ||gihyo.jp^$removeparam=utm_source
