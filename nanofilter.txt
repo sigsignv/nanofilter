@@ -13,13 +13,13 @@
 ||widgets.outbrain.com/outbrain.js
 
 ! Explicit sexual ads
-||aaacompany.net/om/mro/load.js
 ||adm.shinobi.jp/s/*$script,third-party
 ||ads.as.criteo.com/delivery/r/*
 ||i-mobile.co.jp^$script,third-party
 ||js.ad-stir.com/js/adstir.js
 ||js.boost-next.co.jp^$script,third-party
 ||octopuspop.com^$third-party
+||srv1.aaacompany.net/om/mro/load.js
 
 ! Remove tracking parameters
 ||gihyo.jp^$removeparam=utm_source
