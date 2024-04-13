@@ -20,6 +20,7 @@
 ||js.boost-next.co.jp^$script,third-party
 ||octopuspop.com^$third-party
 ||srv1.aaacompany.net/om/mro/load.js
+||static.pc-adroute.focas.jp/js/adroute_ads.js
 
 ! Remove tracking parameters
 ||gihyo.jp^$removeparam=utm_source
