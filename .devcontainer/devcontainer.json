@@ -1,0 +1,23 @@
+{
+	"name": "dev",
+
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+
+	"containerEnv": {
+		"TZ": "${localEnv:TZ:Asia/Tokyo}"
+	},
+
+	"remoteUser": "vscode",
+
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"EditorConfig.EditorConfig",
+				"ms-azuretools.vscode-docker",
+				"adguard.adblock"
+			]
+		}
+	}
+}
