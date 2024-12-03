@@ -28,6 +28,9 @@
 !||srv1.aaacompany.net/om/mro/load.js
 ||static.pc-adroute.focas.jp/js/adroute_ads.js
 
+! Clickbait ads
+||cdn.gmossp-sp.jp/ads/loader.js
+
 ! Video ads
 ||player.gliacloud.com/player/$script
 
