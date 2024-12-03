@@ -18,6 +18,7 @@
 ||fam-8.net/ad/js/fam8-tagify.min.js
 ||imp-adedge.i-mobile.co.jp/script/v1/spot.js
 ||j.zucks.net.zimg.jp/j$script
+||js.ad-drop.jp/t/*.js
 ||js.ad-stir.com/js/adstir.js
 !||js.boost-next.co.jp^$script,third-party
 ||js.ssp.bance.jp/bnctag.js
