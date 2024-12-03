@@ -28,5 +28,8 @@
 !||srv1.aaacompany.net/om/mro/load.js
 ||static.pc-adroute.focas.jp/js/adroute_ads.js
 
+! Video ads
+||player.gliacloud.com/player/$script
+
 ! Remove tracking parameters
 ||gihyo.jp^$removeparam=utm_source
