@@ -13,7 +13,7 @@
 ||widgets.outbrain.com/outbrain.js
 
 ! Explicit sexual ads
-!||adm.shinobi.jp/s/*$script,third-party
+||adm.shinobi.jp/s/$script
 !||ads.as.criteo.com/delivery/r/*
 ||fam-8.net/ad/js/fam8-tagify.min.js
 ||i2ad.jp/customer/ads/ad.php$script
