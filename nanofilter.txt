@@ -16,6 +16,7 @@
 !||adm.shinobi.jp/s/*$script,third-party
 !||ads.as.criteo.com/delivery/r/*
 ||imp-adedge.i-mobile.co.jp/script/v1/spot.js
+||j.zucks.net.zimg.jp/j$script
 ||js.ad-stir.com/js/adstir.js
 !||js.boost-next.co.jp^$script,third-party
 ||js.ssp.bance.jp/bnctag.js
@@ -23,7 +24,6 @@
 !||octopuspop.com^$third-party
 !||srv1.aaacompany.net/om/mro/load.js
 ||static.pc-adroute.focas.jp/js/adroute_ads.js
-!||zucks.net.zimg.jp^$script,third-party
 
 ! Remove tracking parameters
 ||gihyo.jp^$removeparam=utm_source
