@@ -16,7 +16,7 @@
 !||adm.shinobi.jp/s/*$script,third-party
 !||ads.as.criteo.com/delivery/r/*
 ||imp-adedge.i-mobile.co.jp/script/v1/spot.js
-!||js.ad-stir.com/js/adstir.js
+||js.ad-stir.com/js/adstir.js
 !||js.boost-next.co.jp^$script,third-party
 !||octopuspop.com^$third-party
 !||srv1.aaacompany.net/om/mro/load.js
