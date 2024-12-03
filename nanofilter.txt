@@ -21,7 +21,7 @@
 ||js.ssp.bance.jp/bnctag.js
 !||octopuspop.com^$third-party
 !||srv1.aaacompany.net/om/mro/load.js
-!||static.pc-adroute.focas.jp/js/adroute_ads.js
+||static.pc-adroute.focas.jp/js/adroute_ads.js
 !||zucks.net.zimg.jp^$script,third-party
 
 ! Remove tracking parameters
