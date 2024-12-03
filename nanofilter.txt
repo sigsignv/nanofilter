@@ -30,6 +30,7 @@
 
 ! Clickbait ads
 ||cdn.gmossp-sp.jp/ads/loader.js
+||cdn.gmossp-sp.jp/js/async/*/gc.js
 
 ! Video ads
 ||player.gliacloud.com/player/$script
