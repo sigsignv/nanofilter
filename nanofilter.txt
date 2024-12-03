@@ -18,6 +18,7 @@
 ||imp-adedge.i-mobile.co.jp/script/v1/spot.js
 ||js.ad-stir.com/js/adstir.js
 !||js.boost-next.co.jp^$script,third-party
+||js.ssp.bance.jp/bnctag.js
 !||octopuspop.com^$third-party
 !||srv1.aaacompany.net/om/mro/load.js
 !||static.pc-adroute.focas.jp/js/adroute_ads.js
