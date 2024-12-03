@@ -19,6 +19,7 @@
 ||js.ad-stir.com/js/adstir.js
 !||js.boost-next.co.jp^$script,third-party
 ||js.ssp.bance.jp/bnctag.js
+||media.assistads.net/*.js
 !||octopuspop.com^$third-party
 !||srv1.aaacompany.net/om/mro/load.js
 ||static.pc-adroute.focas.jp/js/adroute_ads.js
