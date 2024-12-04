@@ -14,7 +14,6 @@
 
 ! Explicit sexual ads
 ||adm.shinobi.jp/s/$script
-!||ads.as.criteo.com/delivery/r/*
 ||fam-8.net/ad/js/fam8-tagify.min.js
 ||i2ad.jp/customer/ads/ad.php$script
 ||imp-adedge.i-mobile.co.jp/script/v1/spot.js
