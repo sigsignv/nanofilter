@@ -1,6 +1,6 @@
 ! Title: nanofilter
 ! Description: A personal minimal filter
-! Version: 0.2.0
+! Version: 0.2.1
 ! Expires: 7 days
 ! Homepage: https://github.com/sigsignv/nanofilter
 ! License: https://github.com/sigsignv/nanofilter/blob/main/LICENSE
@@ -13,15 +13,27 @@
 ||widgets.outbrain.com/outbrain.js
 
 ! Explicit sexual ads
-||adm.shinobi.jp/s/*$script,third-party
-||ads.as.criteo.com/delivery/r/*
-||i-mobile.co.jp^$script,third-party
+||adm.shinobi.jp/s/$script
+||fam-8.net/ad/js/fam8-tagify.min.js
+||i2ad.jp/customer/ads/ad.php$script
+||imp-adedge.i-mobile.co.jp/script/v1/spot.js
+||j.zucks.net.zimg.jp/j$script
+||js.ad-drop.jp/t/*.js
 ||js.ad-stir.com/js/adstir.js
-||js.boost-next.co.jp^$script,third-party
-||octopuspop.com^$third-party
-||srv1.aaacompany.net/om/mro/load.js
+!||js.boost-next.co.jp^$script,third-party
+||js.ssp.bance.jp/bnctag.js
+||media.assistads.net/*.js
+!||octopuspop.com^$third-party
+!||srv1.aaacompany.net/om/mro/load.js
 ||static.pc-adroute.focas.jp/js/adroute_ads.js
-||zucks.net.zimg.jp^$script,third-party
+
+! Clickbait ads
+||cdn.gmossp-sp.jp/ads/loader.js
+||cdn.gmossp-sp.jp/js/async/*/gc.js
+||speee-ad.akamaized.net/tag/*/js/outer-frame.min.js
+
+! Video ads
+||player.gliacloud.com/player/$script
 
 ! Remove tracking parameters
 ||gihyo.jp^$removeparam=utm_source
