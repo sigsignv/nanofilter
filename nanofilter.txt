@@ -1,6 +1,6 @@
 ! Title: nanofilter
 ! Description: A personal minimal filter
-! Version: 0.2.1
+! Version: 0.2.2
 ! Expires: 7 days
 ! Homepage: https://github.com/sigsignv/nanofilter
 ! License: https://github.com/sigsignv/nanofilter/blob/main/LICENSE
@@ -20,11 +20,8 @@
 ||j.zucks.net.zimg.jp/j$script
 ||js.ad-drop.jp/t/*.js
 ||js.ad-stir.com/js/adstir.js
-!||js.boost-next.co.jp^$script,third-party
 ||js.ssp.bance.jp/bnctag.js
 ||media.assistads.net/*.js
-!||octopuspop.com^$third-party
-!||srv1.aaacompany.net/om/mro/load.js
 ||static.pc-adroute.focas.jp/js/adroute_ads.js
 
 ! Clickbait ads
