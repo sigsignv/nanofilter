@@ -20,6 +20,7 @@
 ||j.zucks.net.zimg.jp/j$script
 ||js.ad-drop.jp/t/*.js
 ||js.ad-stir.com/js/adstir.js
+||js.focas.jp/t/*.js
 ||js.ssp.bance.jp/bnctag.js
 ||media.assistads.net/*.js
 ||static.pc-adroute.focas.jp/js/adroute_ads.js
