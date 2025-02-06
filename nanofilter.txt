@@ -1,6 +1,6 @@
 ! Title: nanofilter
 ! Description: A personal minimal filter
-! Version: 0.2.2
+! Version: 0.2.3
 ! Expires: 7 days
 ! Homepage: https://github.com/sigsignv/nanofilter
 ! License: https://github.com/sigsignv/nanofilter/blob/main/LICENSE
