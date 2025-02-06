@@ -1,6 +1,6 @@
 ! Title: nanofilter
 ! Description: A personal minimal filter
-! Version: 0.2.2
+! Version: 0.2.3
 ! Expires: 7 days
 ! Homepage: https://github.com/sigsignv/nanofilter
 ! License: https://github.com/sigsignv/nanofilter/blob/main/LICENSE
@@ -28,6 +28,7 @@
 ! Clickbait ads
 ||cdn.gmossp-sp.jp/ads/loader.js
 ||cdn.gmossp-sp.jp/js/async/*/gc.js
+||l.logly.co.jp/lift.json$script
 ||speee-ad.akamaized.net/tag/*/js/outer-frame.min.js
 
 ! Video ads
